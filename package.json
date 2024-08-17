@@ -18,7 +18,8 @@
   "contributors": [],
   "scripts": {
     "dev": "",
-    "test": ""
+    "test": "",
+    "start": "nodemon index.js"
   },
   "description": "",
   "dependencies": {
