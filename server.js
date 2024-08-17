@@ -3,7 +3,7 @@ import bodyParser from "body-parser";
 import express from "express";
 
 const app = express();
-const port = 6000;
+const port = 6001;
 
 app.use(express.static("public"));
 app.use(bodyParser.urlencoded({ extended: true }));
