@@ -19,7 +19,7 @@
   "scripts": {
     "dev": "",
     "test": "",
-    "start": "nodemon index.js"
+    "start": "nodemon server.js"
   },
   "description": "",
   "dependencies": {
